@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import './App.css';
+import './../../App.css';
 import axios from 'axios'
-import Members from "./components/crud-react/Members"
-import Form from "./components/crud-react/Form"
+import Members from "./components/Members"
+import Form from "./components/Form"
 
 class App extends Component{
   constructor(props){

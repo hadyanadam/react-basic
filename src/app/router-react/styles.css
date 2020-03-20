@@ -1,0 +1,23 @@
+.buttonAction {
+    margin-top: 30px;
+    border: 2px solid black;
+    border-radius: 5;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10;
+}
+
+.box450border{
+    height: '450px';
+    border: '2px solid #f1f1f1';
+    border-radius: 10;
+    padding: 30;
+}
+
+.imagesize{
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+}
